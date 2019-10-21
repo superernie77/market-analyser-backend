@@ -1,0 +1,44 @@
+[
+	{
+		"duration": 90,
+		"is_buy_order": true,
+		"issued": "2019-09-14T07:07:30Z",
+		"location_id": 60003760,
+		"min_volume": 1,
+		"order_id": 4862176184,
+		"price": 4.0,
+		"range": "region",
+		"system_id": 30000142,
+		"type_id": 29668,
+		"volume_remain": 100,
+		"volume_total": 100
+	},
+	{
+		"duration": 90,
+		"is_buy_order": true,
+		"issued": "2019-09-08T07:45:23Z",
+		"location_id": 60003760,
+		"min_volume": 1,
+		"order_id": 5502338276,
+		"price": 4,
+		"range": "40",
+		"system_id": 30000142,
+		"type_id": 29668,
+		"volume_remain": 10,
+		"volume_total": 10
+	},
+	{
+		"duration": 90,
+		"is_buy_order": true,
+		"issued": "2019-09-08T07:45:23Z",
+		"location_id": 60003760,
+		"min_volume": 1,
+		"order_id": 5502338276,
+		"price": 4.0,
+		"range": "40",
+		"system_id": 30000142,
+		"type_id": 29668,
+		"volume_remain": 10,
+		"volume_total": 10
+	}
+]
