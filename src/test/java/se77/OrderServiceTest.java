@@ -1,4 +1,4 @@
-package se77.rmtcalc;
+package se77;
 
 import static org.hamcrest.CoreMatchers.*;
 import static org.junit.Assert.*;
