@@ -21,12 +21,6 @@ public class AppStarter implements CommandLineRunner{
         SpringApplication.run(AppStarter.class, args);
 
     }
-
-    @Override
-    public void run(String... args) throws Exception {
-        System.setProperty("https.proxyHost", "proxy.wuestenrot.at");
-        System.setProperty("https.proxyPort", "3128");
-    }
     
     @Bean
     public RestTemplate getRestTemplate() {
